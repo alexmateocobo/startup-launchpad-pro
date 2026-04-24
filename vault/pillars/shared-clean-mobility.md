@@ -1,3 +1,3 @@
-# Legal
+# Shared Clean Mobility
 
 **Track:** [[mobility]]
