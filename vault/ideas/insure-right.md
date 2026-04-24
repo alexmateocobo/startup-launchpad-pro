@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** AI-assisted insurance claim denial assistant: parses the denial, identifies weak reasoning, drafts a rebuttal, escalates through the Ombuds-scheme and — where necessary — into litigation with a partner Kanzlei.
 **Shortlist score:** 25/35
+**Tags:** #b2b #b2c #app #legal #success-fee
 
 ## Problem
 

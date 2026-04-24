@@ -3,6 +3,7 @@
 **Pillar:** [[unlocking-underused-vehicles]]
 **One-liner:** Insurance, tax, and DSGVO compliance layer for private car owners renting out their vehicles through peer-to-peer platforms in Germany, turning legal ambiguity into a one-click onboarding experience.
 **Shortlist score:** 23/35 · #watchlist
+**Tags:** #b2b #b2c #platform #mobility #compliance
 
 ## Problem
 

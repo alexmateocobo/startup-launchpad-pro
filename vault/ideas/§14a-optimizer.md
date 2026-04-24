@@ -3,6 +3,7 @@
 **Pillar:** [[ev-charging-infrastructure]]
 **One-liner:** Consumer and installer SaaS that automatically registers EV chargers under Germany's §14a EnWG, claims the grid-fee discount (€110–190/year), and manages grid-operator communication — a benefit most charger owners don't know they're entitled to.
 **Shortlist score:** 31/35 · #high-score
+**Tags:** #b2b #b2c #saas #app #ev
 
 ## Problem
 

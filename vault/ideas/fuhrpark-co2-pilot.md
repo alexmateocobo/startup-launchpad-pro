@@ -3,6 +3,7 @@
 **Pillar:** [[unlocking-underused-vehicles]]
 **One-liner:** CSRD-ready Scope 3 Category 7 (employee commuting and company car) emissions reporting SaaS for German Mittelstand, pulling data directly from fleet-leasing APIs and producing ESRS E1-compliant evidence packs.
 **Shortlist score:** 30/35
+**Tags:** #b2b #saas #csrd #compliance
 
 ## Problem
 

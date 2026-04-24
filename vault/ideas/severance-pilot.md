@@ -3,6 +3,7 @@
 **Pillar:** [[enforcing-citizens-rights]]
 **One-liner:** AI-assisted Kündigungsschutzklage preparation and severance negotiation for employees inside the 3-week window after termination, in partnership with a specialist labour-law Kanzlei.
 **Shortlist score:** 28/35
+**Tags:** #b2b #b2c #app #legal
 
 ## Problem
 

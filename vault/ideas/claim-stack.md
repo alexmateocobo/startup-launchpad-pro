@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** "Stripe for collective redress." Back-office SaaS that lets qualified entities (Verbraucherzentralen, vzbv, SVV) run Abhilfeklage and Musterfeststellungsklage campaigns end to end: participant intake, eligibility checks, evidence collection, court filings via the BfJ register, and distribution of awarded amounts.
 **Shortlist score:** 32/35 · #high-score
+**Tags:** #b2b #saas #legal #compliance
 
 ## Problem
 

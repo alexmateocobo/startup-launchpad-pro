@@ -3,6 +3,7 @@
 **Pillar:** [[enforcing-citizens-rights]]
 **One-liner:** End-to-end digital case manager for EU Blue Card, Niederlassungserlaubnis and family-reunification applications, serving the skilled worker and the employer in a single workflow.
 **Shortlist score:** 27/35
+**Tags:** #b2b #b2c #saas #app #legal
 
 ## Problem
 

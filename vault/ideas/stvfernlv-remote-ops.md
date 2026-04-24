@@ -3,6 +3,7 @@
 **Pillar:** [[autonomous-and-robotic-mobility]]
 **One-liner:** Compliance and operator-certification platform for teleoperators under Germany's new Road Traffic Remote Control Ordinance (StVFernLV), effective 1 December 2025.
 **Shortlist score:** 25/35
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

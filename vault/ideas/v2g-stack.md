@@ -3,6 +3,7 @@
 **Pillar:** [[vehicle-grid-integration]]
 **One-liner:** ISO 15118-20 Vehicle-to-Grid compliance middleware for Charge Point Operators and Virtual Power Plant aggregators, ahead of the January 2027 mandatory bidirectional charging standard.
 **Shortlist score:** 28/35
+**Tags:** #b2b #saas #middleware #ev #compliance
 
 ## Problem
 

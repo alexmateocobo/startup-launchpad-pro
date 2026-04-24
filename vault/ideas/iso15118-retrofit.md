@@ -3,6 +3,7 @@
 **Pillar:** [[ev-charging-infrastructure]]
 **One-liner:** Firmware-update and OCPP 2.0.1 retrofit service that brings existing public AC chargers into ISO 15118-2 compliance before the 8 January 2026 mandatory deadline — as a managed SaaS with ongoing compliance monitoring.
 **Shortlist score:** 27/35
+**Tags:** #b2b #saas #ev #compliance
 
 ## Problem
 

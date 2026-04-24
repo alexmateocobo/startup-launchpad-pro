@@ -3,6 +3,7 @@
 **Pillar:** [[digital-accessibility-and-compliance]]
 **One-liner:** Lived-experience accessibility tester marketplace: matches disabled testers (blind, low-vision, deaf, motor-impairment, cognitive) with Mittelstand and enterprise product teams for BFSG-compliant usability audits, creating paid work for an underemployed population.
 **Shortlist score:** 24/35
+**Tags:** #b2b #marketplace #two-sided #accessibility #compliance
 
 ## Problem
 

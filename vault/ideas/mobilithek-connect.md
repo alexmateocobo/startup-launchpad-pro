@@ -3,6 +3,7 @@
 **Pillar:** [[shared-clean-mobility]]
 **One-liner:** Compliance SaaS that helps public transit operators, carsharing networks, and micro-mobility providers publish GTFS, NeTEx, and MDS data to Germany's Mobilithek (National Datenpunkt), fulfilling obligations under the Mobilitätsdatengesetz and EU IVS Directive.
 **Shortlist score:** 26/35
+**Tags:** #b2b #saas #middleware #mobility #compliance
 
 ## Problem
 

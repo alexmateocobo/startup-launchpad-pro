@@ -3,6 +3,7 @@
 **Pillar:** [[ev-charging-infrastructure]]
 **One-liner:** Automated DATEX II and OCPI data-publication compliance platform for German Charge Point Operators facing the April 2026 AFIR Article 20 reporting mandate.
 **Shortlist score:** 26/35
+**Tags:** #b2b #saas #middleware #ev #compliance
 
 ## Problem
 

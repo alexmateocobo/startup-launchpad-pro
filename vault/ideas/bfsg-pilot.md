@@ -3,6 +3,7 @@
 **Pillar:** [[digital-accessibility-and-compliance]]
 **One-liner:** Continuous Barrierefreiheitsstärkungsgesetz (BFSG) monitoring and remediation cockpit for German Mittelstand e-commerce, banking and SaaS: WCAG 2.2 AA + EN 301 549 scanning, prioritised remediation queue, evidence packs for Marktüberwachungsbehörde audits and complaint-handling.
 **Shortlist score:** 33/35 · #high-score
+**Tags:** #b2b #saas #accessibility #compliance
 
 ## Problem
 

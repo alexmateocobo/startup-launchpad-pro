@@ -3,6 +3,7 @@
 **Pillar:** [[enforcing-citizens-rights]]
 **One-liner:** Claim-quality filter for Article 82 GDPR damages: automatically identifies concrete, judicially-reviewable harm from a user's data footprint and packages cases into class-ready claim cohorts.
 **Shortlist score:** 22/35
+**Tags:** #b2b #b2c #app #gdpr #legal
 
 ## Problem
 

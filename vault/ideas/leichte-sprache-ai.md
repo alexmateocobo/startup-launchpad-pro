@@ -3,6 +3,7 @@
 **Pillar:** [[digital-accessibility-and-compliance]]
 **One-liner:** Real-time Leichte Sprache (plain German) and Deutsche Gebärdensprache (DGS) translation engine for government portals, healthcare providers and consumer-facing Mittelstand, certified to the standards of Netzwerk Leichte Sprache and Bundesfachstelle Barrierefreiheit.
 **Shortlist score:** 26/35
+**Tags:** #b2b #saas #api #accessibility #compliance
 
 ## Problem
 

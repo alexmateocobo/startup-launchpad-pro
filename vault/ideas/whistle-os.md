@@ -3,6 +3,7 @@
 **Pillar:** [[corporate-compliance-tooling]]
 **One-liner:** Next-generation Hinweisgeberschutzgesetz (HinSchG) whistleblowing platform with AI-triage, case-management and integration with EU Whistleblower Directive, built for Mittelstand and large enterprises underserved by legacy providers.
 **Shortlist score:** 28/35
+**Tags:** #b2b #saas #compliance #legal
 
 ## Problem
 

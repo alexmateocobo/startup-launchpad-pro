@@ -51,6 +51,33 @@ Each document in `vault/ideas/` follows a standardized scorecard. **Maximum tota
 
 Current top scorers: **bfsg-pilot** at 33/35 (Legal), **§14a-optimizer** at 31/35 (Mobility).
 
+## Idea Tagging System
+
+Each idea document carries a `**Tags:**` line immediately after `**Shortlist score:**`. Tags use Obsidian's `#tag` syntax and follow this taxonomy:
+
+**Business model**
+- `#b2b` — sells primarily to businesses
+- `#b2c` — sells primarily to consumers
+- `#two-sided` — two-sided marketplace with supply and demand sides
+
+**Product type**
+- `#saas` — subscription software served to businesses
+- `#app` — consumer-facing web or mobile application
+- `#api` — API-first or developer-facing product
+- `#platform` — multi-party platform connecting buyers, sellers, or data producers
+- `#marketplace` — transactional marketplace (subset of platform)
+- `#middleware` — technical integration/translation layer between existing systems
+
+**Domain**
+- `#compliance` — regulatory compliance tooling
+- `#legal` — legal-services-adjacent (Kanzlei tooling, citizen rights, litigation support)
+- `#accessibility` — BFSG / WCAG / EN 301 549 focus
+- `#ev` — EV charging infrastructure or vehicle electrification
+- `#mobility` — transport, fleet, or mobility-data focus
+- `#gdpr` — data protection / GDPR / BDSG focus
+- `#csrd` — sustainability / ESRS / Scope 3 reporting focus
+- `#success-fee` — primary monetisation via contingency / success fee rather than subscription
+
 ## Obsidian Conventions
 
 - Files use kebab-case naming (e.g., `bfsg-pilot.md`, `ev-charging-infrastructure.md`)

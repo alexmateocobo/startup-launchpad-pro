@@ -3,6 +3,7 @@
 **Pillar:** [[mobility-data-and-compliance]]
 **One-liner:** HGV fleet CO₂ surcharge tracking, route-optimisation, and CSRD Scope 1 reporting SaaS that turns Germany's CO₂-differentiated truck toll into a decarbonisation compliance tool.
 **Shortlist score:** 30/35
+**Tags:** #b2b #saas #csrd #compliance #mobility
 
 ## Problem
 

@@ -3,6 +3,7 @@
 **Pillar:** [[unlocking-underused-vehicles]]
 **One-liner:** Guided digital workflow that takes a condo owner from "I want an EV charger" to installed wallbox, handling the WEG resolution, installer matching, Netzanschluss, and §14a registration in one flow.
 **Shortlist score:** 27/35
+**Tags:** #b2b #b2c #app #ev
 
 ## Problem
 

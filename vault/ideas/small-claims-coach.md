@@ -3,6 +3,7 @@
 **Pillar:** [[enforcing-citizens-rights]]
 **One-liner:** Guided self-representation app for the new [Online-Zivilverfahren](https://www.bmjv.de/DE/themen/digitales/digitalisierung_justiz/digitalisierungsinitiative/_articles/zivilgerichtliches_onlineverfahren_artikel.html) at Amtsgerichte (claims up to €10,000), generating pleadings, organising evidence and filing through the official digital channels.
 **Shortlist score:** 31/35 · #high-score
+**Tags:** #b2c #app #legal
 
 ## Problem
 

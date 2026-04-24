@@ -3,6 +3,7 @@
 **Pillar:** [[corporate-compliance-tooling]]
 **One-liner:** Operational platform for external Data Protection Officer (DPO) firms serving the Mittelstand: records-of-processing, DPIA workflows, breach management, subject-access-request intake, and audit-ready dashboards — all GDPR + BDSG + EU Data Act aligned.
 **Shortlist score:** 24/35
+**Tags:** #b2b #saas #gdpr #compliance
 
 ## Problem
 

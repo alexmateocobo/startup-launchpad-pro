@@ -3,6 +3,7 @@
 **Pillar:** [[corporate-compliance-tooling]]
 **One-liner:** eAkte + Online-Zivilverfahren middleware for Kanzleien: bridges their case-management system (RA-MICRO, Advoware, Advolux, STP) to the federal court electronic-file platform and the new small-claims procedure, automating filings, deadlines, document exchange, and client transparency.
 **Shortlist score:** 26/35
+**Tags:** #b2b #saas #middleware #legal
 
 ## Problem
 

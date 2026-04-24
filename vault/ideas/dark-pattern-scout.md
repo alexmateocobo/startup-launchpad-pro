@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** Evidence-grade dark-pattern and manipulative-design detector for consumer NGOs, regulators and qualified entities: continuous crawl of e-commerce, SaaS and mobile apps, producing DSA Article 25 and UCPD-grade documentation packs ready for enforcement.
 **Shortlist score:** 27/35
+**Tags:** #b2b #saas #compliance #legal
 
 ## Problem
 

@@ -3,6 +3,7 @@
 **Pillar:** [[autonomous-and-robotic-mobility]]
 **One-liner:** EASA-compliant drone operational authorisation, U-Space flight planning, and Remote ID management SaaS for commercial drone operators in Germany targeting BVLOS logistics and infrastructure inspection.
 **Shortlist score:** 26/35
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

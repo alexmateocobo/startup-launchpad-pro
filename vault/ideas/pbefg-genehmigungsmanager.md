@@ -3,6 +3,7 @@
 **Pillar:** [[shared-clean-mobility]]
 **One-liner:** Multi-Bundesland licensing automation platform for ride-pooling and demand-responsive transport operators navigating the PBefG 2021 Gebündelte Bedarfsverkehre framework.
 **Shortlist score:** 24/35
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

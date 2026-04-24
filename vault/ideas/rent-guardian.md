@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** Expat-first next-generation Conny: Mietpreisbremse checks, Nebenkostenabrechnung audit, Kündigungsverteidigung, and Mieterhöhung defence — in English, German and Spanish — for Munich, Berlin, Hamburg, Frankfurt and the Top-10 cities.
 **Shortlist score:** 26/35
+**Tags:** #b2b #b2c #app #legal
 
 ## Problem
 

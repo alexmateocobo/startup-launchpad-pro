@@ -3,6 +3,7 @@
 **Pillar:** [[ev-charging-infrastructure]]
 **One-liner:** Fleet electrification planning and compliance platform that combines GEIG charging-infrastructure obligations, §14a EnWG grid-fee optimisation, and EU CO₂ fleet targets into one Fuhrpark-manager dashboard.
 **Shortlist score:** 30/35
+**Tags:** #b2b #saas #ev #compliance
 
 ## Problem
 

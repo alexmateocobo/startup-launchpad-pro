@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** Automated audit and enforcement platform for German household and SME energy bills — detecting Strompreisbremse violations, billing errors, and provider overcharging, then pursuing refund via RDG-compliant Inkasso.
 **Shortlist score:** 26/35
+**Tags:** #b2c #app #legal #success-fee
 
 ## Problem
 

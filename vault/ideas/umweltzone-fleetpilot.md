@@ -3,6 +3,7 @@
 **Pillar:** [[mobility-data-and-compliance]]
 **One-liner:** Multi-city clean-zone compliance tracker and Ausnahmegenehmigung automation SaaS for logistics fleets navigating Germany's 80 Umweltzonen and emerging Zero Emission Zone ordinances.
 **Shortlist score:** 27/35
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

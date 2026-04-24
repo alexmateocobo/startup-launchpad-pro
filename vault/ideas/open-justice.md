@@ -3,6 +3,7 @@
 **Pillar:** [[corporate-compliance-tooling]]
 **One-liner:** Public case-law and regulatory intelligence platform that makes BGH, OLG, BFH, BAG, BVerwG, CJEU and BaFin/BNetzA decisions searchable, linkable and trend-monitorable in real time — a "Bloomberg for German law".
 **Shortlist score:** 23/35
+**Tags:** #b2b #saas #api #platform #legal
 
 ## Problem
 

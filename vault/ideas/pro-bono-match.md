@@ -3,6 +3,7 @@
 **Pillar:** [[enforcing-citizens-rights]]
 **One-liner:** A two-sided marketplace that turns the Beratungshilfeschein (German legal aid voucher) into a one-click match with a pro bono or legal-aid lawyer, white-labelled for consumer protection NGOs.
 **Shortlist score:** 26/35
+**Tags:** #b2c #marketplace #platform #legal
 
 ## Problem
 

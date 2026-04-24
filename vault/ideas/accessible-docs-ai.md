@@ -3,6 +3,7 @@
 **Pillar:** [[digital-accessibility-and-compliance]]
 **One-liner:** PDF/UA and WCAG document remediation automation for high-volume issuers (banks, insurers, public authorities, universities): converts existing PDFs, DOCX and HTML policies into accessible, tagged, screen-reader-ready artefacts in minutes.
 **Shortlist score:** 25/35
+**Tags:** #b2b #saas #api #accessibility #compliance
 
 ## Problem
 

@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** Victim-side platform for online fraud, phishing and deepfake scams: fast-track chargeback, freezing bank-account requests to providers, counter-demand against unjustified Inkasso, and fraud-pattern intelligence shared with law enforcement.
 **Shortlist score:** 24/35
+**Tags:** #b2c #app #legal #success-fee
 
 ## Problem
 

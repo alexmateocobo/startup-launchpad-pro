@@ -3,6 +3,7 @@
 **Pillar:** [[mobility-data-and-compliance]]
 **One-liner:** ESRS E1 sustainability reporting SaaS for Mobility-as-a-Service platform operators, transit authorities, and carsharing networks required to report GHG and modal-shift impact under CSRD's forthcoming MaaS-specific guidance.
 **Shortlist score:** 26/35
+**Tags:** #b2b #saas #csrd #compliance #mobility
 
 ## Problem
 

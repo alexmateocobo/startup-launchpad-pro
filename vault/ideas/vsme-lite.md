@@ -3,6 +3,7 @@
 **Pillar:** [[corporate-compliance-tooling]]
 **One-liner:** Indirect-CSRD reporting platform for the ~200,000 German value-chain-cap suppliers pulled into Scope 3 data requests by DAX/MDAX and EU-listed customers, built on the EFRAG VSME voluntary standard and aligned with CSRD and CSDDD.
 **Shortlist score:** 27/35
+**Tags:** #b2b #saas #csrd #compliance
 
 ## Problem
 

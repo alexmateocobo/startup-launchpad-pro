@@ -3,6 +3,7 @@
 **Pillar:** [[autonomous-and-robotic-mobility]]
 **One-liner:** City-by-city permit automation SaaS for sidewalk delivery robot operators navigating Germany's fragmented §70 StVO Ausnahmegenehmigung regime.
 **Shortlist score:** 23/35 · #watchlist
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

@@ -3,6 +3,7 @@
 **Pillar:** [[corporate-compliance-tooling]]
 **One-liner:** EU AI Act compliance cockpit that combines AI-system inventory, Annex III risk classification, technical documentation, post-market monitoring and conformity-assessment support, powered by process telemetry from existing enterprise systems (ERP, CRM, HRIS).
 **Shortlist score:** 31/35
+**Tags:** #b2b #saas #platform #compliance
 
 ## Problem
 

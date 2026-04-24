@@ -3,6 +3,7 @@
 **Pillar:** [[ev-charging-infrastructure]]
 **One-liner:** Compliance and project-management SaaS for building owners and Hausverwaltungen to meet Germany's GEIG charging-point obligations before the €10,000 fine clock starts.
 **Shortlist score:** 29/35
+**Tags:** #b2b #saas #ev #compliance
 
 ## Problem
 

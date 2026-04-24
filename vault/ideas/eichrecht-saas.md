@@ -3,6 +3,7 @@
 **Pillar:** [[ev-charging-infrastructure]]
 **One-liner:** PTB-compliant meter-value signing, transparency-software delivery, and audit-trail management middleware for small and mid-size Charge Point Operators who cannot afford bespoke Eichrecht integration.
 **Shortlist score:** 25/35
+**Tags:** #b2b #saas #middleware #ev #compliance
 
 ## Problem
 

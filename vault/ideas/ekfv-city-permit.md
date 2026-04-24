@@ -3,6 +3,7 @@
 **Pillar:** [[shared-clean-mobility]]
 **One-liner:** City-permit management and operational-zone compliance SaaS for e-scooter, e-moped, and cargo-bike sharing operators navigating Germany's fragmented Elektrokleinstfahrzeuge-Verordnung city ordinances.
 **Shortlist score:** 28/35
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

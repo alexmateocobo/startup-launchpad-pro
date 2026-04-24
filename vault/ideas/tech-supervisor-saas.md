@@ -3,6 +3,7 @@
 **Pillar:** [[autonomous-and-robotic-mobility]]
 **One-liner:** AFGBV-compliant technical supervision platform for Level 4 autonomous vehicle operators, managing remote oversight workflows, incident logging, intervention records, and Kraftfahrt-Bundesamt reporting.
 **Shortlist score:** 27/35
+**Tags:** #b2b #saas #compliance #mobility
 
 ## Problem
 

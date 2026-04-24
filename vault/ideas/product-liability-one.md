@@ -3,6 +3,7 @@
 **Pillar:** [[consumer-rights-awareness-and-enforcement]]
 **One-liner:** Claim initiation platform for the new EU Product Liability Directive (2024/2853) covering software, AI systems and connected devices: victim intake, causation evidence assembly, and routing to plaintiff Kanzleien or VDuG qualified entities.
 **Shortlist score:** 26/35
+**Tags:** #b2c #platform #legal
 
 ## Problem
 
