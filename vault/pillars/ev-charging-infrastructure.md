@@ -8,14 +8,14 @@ Compliance and operations tooling for Charge Point Operators (CPOs), building ow
 
 ## Key Regulations
 
-| Regulation | What it requires | In force |
-|---|---|---|
-| AFIR Article 20 | CPOs must publish real-time charger data in DATEX II format to national access points (Mobilithek) | 14 April 2026 |
-| ISO 15118-2 | Mandatory Plug & Charge communication protocol for all new public AC chargers | 8 January 2026 |
-| GEIG (Gebäude-Elektromobilitätsinfrastruktur-Gesetz) | Buildings with 20+ parking spaces must have at least one operational charging point | 1 January 2025 (existing); EPBD wave June 2026 |
-| §14a EnWG | EV chargers and heat pumps above 4.2 kW must be registered with the local grid operator as SteuVE | Since 1 January 2024 |
-| EPBD (Energy Performance of Buildings Directive) | Extends charging-point pre-wiring obligations to residential buildings with 3+ parking spaces | Transposition due June 2026 |
-| Germany Masterplan Charging Infrastructure 2030 | National rollout target; tightens GEIG enforcement | October 2025 |
+| Regulation                                           | What it requires                                                                                   | In force                                       |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| AFIR Article 20                                      | CPOs must publish real-time charger data in DATEX II format to national access points (Mobilithek) | 14 April 2026                                  |
+| ISO 15118-2                                          | Mandatory Plug & Charge communication protocol for all new public AC chargers                      | 8 January 2026                                 |
+| GEIG (Gebäude-Elektromobilitätsinfrastruktur-Gesetz) | Buildings with 20+ parking spaces must have at least one operational charging point                | 1 January 2025 (existing); EPBD wave June 2026 |
+| §14a EnWG                                            | EV chargers and heat pumps above 4.2 kW must be registered with the local grid operator as SteuVE  | Since 1 January 2024                           |
+| EPBD (Energy Performance of Buildings Directive)     | Extends charging-point pre-wiring obligations to residential buildings with 3+ parking spaces      | Transposition due June 2026                    |
+| Germany Masterplan Charging Infrastructure 2030      | National rollout target; tightens GEIG enforcement                                                 | October 2025                                   |
 
 ## Market Size
 
